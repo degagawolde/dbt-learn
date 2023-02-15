@@ -18,3 +18,5 @@ transformed as (
 )
 
 select * from transformed
+
+-- added comment in stg customer
